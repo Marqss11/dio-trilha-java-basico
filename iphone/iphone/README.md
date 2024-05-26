@@ -1,18 +1,13 @@
-## Getting Started
+## Projeto IPHONE - DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Modelagem de objeto e diagramação de um IPHONE
 
-## Folder Structure
+## OBJETIVO
+1 - Criar um diagrama UML que represente as funcionalidades solicitadas.
 
-The workspace contains two folders by default, where:
+2 - Implementar as classes e interfaces correspondentes em Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## DIAGRAMA UML
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![IPHONE drawio](https://github.com/Marqss11/dio-trilha-java-basico/assets/146854558/f341bef4-b4bc-4207-b88c-b6f22876ec08)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
