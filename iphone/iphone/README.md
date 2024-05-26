@@ -2,6 +2,7 @@
 
 Modelagem de objeto e diagramação de um IPHONE com as seguintes características:
 O Iphone deve conter 3 "aplicativos", sendo eles:
+
 1º Reprodutor Musical
 Com as funcionalidades: tocar, pausar e escolher a música.
 
