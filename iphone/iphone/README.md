@@ -7,9 +7,11 @@ O Iphone deve conter 3 "aplicativos", sendo eles:
 
 Com as funcionalidades: tocar, pausar e escolher a música.
 
+
 2º Navegador WEB
 
 Com as funcionalidades: Exibir uma página, recarregar uma página e abrir uma nova página.
+
 
 3º Aparelho Telefônico
 
